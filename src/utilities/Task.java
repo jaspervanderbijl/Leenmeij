@@ -6,6 +6,11 @@ package utilities;
  * Date: 29-10-13
  * Time: 15:08
  * To change this template use File | Settings | File Templates.
+ *
+ * @author Reshad Farid
+ * @version 1.0
+ *
+ * This class is the BASE
  */
 public abstract class Task<TInput extends Form, TOutput extends Form>
 {
